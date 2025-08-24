@@ -85,7 +85,9 @@ Rango de Valores
 ### NDSI (Normalized Difference Snow Index)
 
 El NDSI detecta cobertura de nieve al comparar el verde (GREEN) y el infrarrojo de onda corta 1 (SWIR1). La nieve refleja alto en GREEN y bajo en SWIR1, lo que lo hace efectivo para mapear nieve y hielo.
+
 Fórmula
+
 $$
 NDSI = \frac{GREEN - SWIR1}{GREEN + SWIR1}
 $$
