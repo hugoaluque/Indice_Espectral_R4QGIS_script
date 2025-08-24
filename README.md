@@ -1,0 +1,1 @@
+# Indice_Espectral_R4QGIS_script
