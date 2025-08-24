@@ -29,6 +29,7 @@ Fórmula
 $$
 EVI = G \times \frac{NIR - RED}{NIR + C1 \times RED - C2 \times BLUE + L}
 $$
+
 Donde:
 
 (G = 2.5) (factor de ganancia),
@@ -43,6 +44,7 @@ Rango de Valores
 El NDWI se utiliza para detectar cuerpos de agua y monitorear su contenido de humedad. Destaca el agua al comparar la reflectancia en el verde (GREEN) y el infrarrojo cercano (NIR). Valores positivos indican agua, mientras que negativos indican vegetación o suelo.
 
 Fórmula
+
 $$
 NDWI = \frac{GREEN - NIR}{GREEN + NIR}
 $$
